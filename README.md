@@ -335,7 +335,7 @@ outputs/
 
 ## Citation
 
-Citation information will be added after the anonymous review process.
+Citation information will be added upon official publication.
 
 ```bibtex
 @inproceedings{anonymous2027dpgc,
