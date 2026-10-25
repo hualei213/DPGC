@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Data, checkpoints, outputs, and logs
+data/
+datasets/
+checkpoints/
+weights/
+outputs/
+results/
+runs/
+wandb/
+tensorboard/
+lightning_logs/
+*.log
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.mat
+
+# Jupyter
+.ipynb_checkpoints/
