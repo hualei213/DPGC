@@ -156,7 +156,7 @@ The experiments reported in the paper use Depth Anything V2-Large:
 --depth-weights ./checkpoints/depth_anything_v2_vitl.pth
 ```
 
-Trained DPGC checkpoints and datasets are not stored directly in this Git repository.
+The pretrained models could be downloaded from : https://pan.baidu.com/s/1FareXddufTkEinb79rtzow?pwd=kba2. extraction code: kba2. Please test the pre-trained model on the images pre-processed with our code..
 
 ## Training
 
