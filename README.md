@@ -1,6 +1,6 @@
 # DPGC: Depth-Prior Guided Semi-Supervised Wheat Ear Counting
 
-Anonymous implementation for an MMM 2027 submission.
+Our paper has been accepted to MMM 2027.
 
 ## Abstract
 
