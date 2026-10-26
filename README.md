@@ -338,7 +338,7 @@ outputs/
 Citation information will be added upon official publication.
 
 ```bibtex
-@inproceedings{anonymous2027dpgc,
+@inproceedings{MMM2027,
   title     = {DPGC: Depth-Prior Guided Semi-Supervised Wheat Ear Counting},
   author    = {Chaofan Zheng, Yuchen Zhang and Hualei Shen},
   booktitle = {International Conference on Multimedia Modeling},
