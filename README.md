@@ -342,8 +342,7 @@ Citation information will be added upon official publication.
   title     = {DPGC: Depth-Prior Guided Semi-Supervised Wheat Ear Counting},
   author    = {Chaofan Zheng, Yuchen Zhang and Hualei Shen},
   booktitle = {International Conference on Multimedia Modeling},
-  year      = {2027},
-  primaryClass={cs.CV}
+  year      = {2027}
 }
 ```
 
